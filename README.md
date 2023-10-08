@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **to polish my skills more and hopefully get a solid grasp of Angular, Nodejs, React, Vue, and Laravel**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: (see profile socials section)</h3>
 <p align="left">
 </p>
 
